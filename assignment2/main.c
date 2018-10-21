@@ -1,9 +1,3 @@
-//UG group of two
-/*
-Hideki Yoshinaga a1658945
-LIWEI XU a1701074
-*/
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
